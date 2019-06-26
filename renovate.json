@@ -1,3 +1,4 @@
 {
+  "skipInstalls": false,
   "postUpdateOptions": ["npmDedupe"]
 }
